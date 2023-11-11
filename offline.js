@@ -1,0 +1,31 @@
+﻿{
+	"version": 1699527881,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-3.4.1.min.js",
+		"offlineClient.js",
+		"images/spr_digismile-sheet0.png",
+		"images/player-sheet0.png",
+		"images/e-sheet0.png",
+		"images/btn_volume-sheet0.png",
+		"images/btn_volume-sheet1.png",
+		"images/tower-sheet0.png",
+		"images/hiddenplayer-sheet0.png",
+		"images/spr_solid-sheet0.png",
+		"images/spr_set_score-sheet0.png",
+		"images/spr_gameeffect-sheet0.png",
+		"media/knocker1.m4a",
+		"media/knocker1.ogg",
+		"media/domp.m4a",
+		"media/domp.ogg",
+		"media/thong.m4a",
+		"media/thong.ogg",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
